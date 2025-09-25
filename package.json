@@ -97,6 +97,9 @@
     "react-test-renderer": "19.0.0",
     "typescript": "5.0.4"
   },
+  "peerDependencies": {
+    "react-native-device-info": "^14.1.1"
+  },
   "engines": {
     "node": ">=18"
   }
